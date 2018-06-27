@@ -1,0 +1,1623 @@
+fileFormatVersion: 2
+guid: 84719df2b9a51894ab098d1109b44b40
+timeCreated: 1493067365
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_elbow_left
+    100002: arm_elbow_right
+    100004: arm_paw_claws_left
+    100006: arm_paw_claws_left_end
+    100008: arm_paw_claws_right
+    100010: arm_paw_claws_right_end
+    100012: arm_shoulder_1_left
+    100014: arm_shoulder_1_right
+    100016: arm_shoulder_2_left
+    100018: arm_shoulder_2_right
+    100020: arm_wrist_left
+    100022: arm_wrist_right
+    100024: Armature
+    100026: Armature 1
+    100028: Bear
+    100030: //RootNode
+    100032: BearEye
+    100034: Camera
+    100036: ear_left
+    100038: ear_left_end
+    100040: ear_right
+    100042: ear_right_end
+    100044: head
+    100046: head_eyeball_left
+    100048: head_eyeball_left_end
+    100050: head_eyeball_right
+    100052: head_eyeball_right_end
+    100054: head_eyelid_lower_left
+    100056: head_eyelid_lower_left_end
+    100058: head_eyelid_lower_right
+    100060: head_eyelid_lower_right_end
+    100062: head_eyelid_upper_left
+    100064: head_eyelid_upper_left_end
+    100066: head_eyelid_upper_right
+    100068: head_eyelid_upper_right_end
+    100070: head_lip_upper_left
+    100072: head_lip_upper_left_end
+    100074: head_lip_upper_right
+    100076: head_lip_upper_right_end
+    100078: head_nose
+    100080: head_nose_end
+    100082: jaw
+    100084: Lamp
+    100086: leg_ankle_left
+    100088: leg_ankle_right
+    100090: leg_foot_claws_left
+    100092: leg_foot_claws_left_end
+    100094: leg_foot_claws_right
+    100096: leg_foot_claws_right_end
+    100098: leg_knee_left
+    100100: leg_knee_right
+    100102: leg_thigh_left
+    100104: leg_thigh_right
+    100106: neck
+    100108: pelvis
+    100110: root_ground
+    100112: root_hips
+    100114: spine_lower
+    100116: spine_upper
+    100118: tail
+    100120: tail_end
+    100122: tongue_1
+    100124: tongue_2
+    100126: tongue_2_end
+    400000: arm_elbow_left
+    400002: arm_elbow_right
+    400004: arm_paw_claws_left
+    400006: arm_paw_claws_left_end
+    400008: arm_paw_claws_right
+    400010: arm_paw_claws_right_end
+    400012: arm_shoulder_1_left
+    400014: arm_shoulder_1_right
+    400016: arm_shoulder_2_left
+    400018: arm_shoulder_2_right
+    400020: arm_wrist_left
+    400022: arm_wrist_right
+    400024: Armature
+    400026: Armature 1
+    400028: Bear
+    400030: //RootNode
+    400032: BearEye
+    400034: Camera
+    400036: ear_left
+    400038: ear_left_end
+    400040: ear_right
+    400042: ear_right_end
+    400044: head
+    400046: head_eyeball_left
+    400048: head_eyeball_left_end
+    400050: head_eyeball_right
+    400052: head_eyeball_right_end
+    400054: head_eyelid_lower_left
+    400056: head_eyelid_lower_left_end
+    400058: head_eyelid_lower_right
+    400060: head_eyelid_lower_right_end
+    400062: head_eyelid_upper_left
+    400064: head_eyelid_upper_left_end
+    400066: head_eyelid_upper_right
+    400068: head_eyelid_upper_right_end
+    400070: head_lip_upper_left
+    400072: head_lip_upper_left_end
+    400074: head_lip_upper_right
+    400076: head_lip_upper_right_end
+    400078: head_nose
+    400080: head_nose_end
+    400082: jaw
+    400084: Lamp
+    400086: leg_ankle_left
+    400088: leg_ankle_right
+    400090: leg_foot_claws_left
+    400092: leg_foot_claws_left_end
+    400094: leg_foot_claws_right
+    400096: leg_foot_claws_right_end
+    400098: leg_knee_left
+    400100: leg_knee_right
+    400102: leg_thigh_left
+    400104: leg_thigh_right
+    400106: neck
+    400108: pelvis
+    400110: root_ground
+    400112: root_hips
+    400114: spine_lower
+    400116: spine_upper
+    400118: tail
+    400120: tail_end
+    400122: tongue_1
+    400124: tongue_2
+    400126: tongue_2_end
+    4300000: Bear
+    4300002: BearEye
+    7400000: Armature|attack_left
+    7400002: Armature|attack_straight
+    7400004: Armature|idle
+    7400006: Armature|trash.001
+    7400008: Armature|walk_backwards
+    7400010: Armature|walk_left
+    7400012: Armature|walk_right
+    7400014: Armature|trash
+    7400016: Armature|walk_straight
+    9500000: //RootNode
+    13700000: Bear
+    13700002: BearEye
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|attack_left
+      takeName: Armature|attack_left
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature 1
+        weight: 1
+      - path: Armature/Armature 1/root_ground
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left/leg_foot_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right/leg_foot_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail/tail_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left/arm_paw_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right/arm_paw_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left/ear_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right/ear_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left/head_eyeball_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right/head_eyeball_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left/head_eyelid_lower_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right/head_eyelid_lower_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left/head_eyelid_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right/head_eyelid_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left/head_lip_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right/head_lip_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose/head_nose_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2/tongue_2_end
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: BearEye
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|attack_straight
+      takeName: Armature|attack_straight
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature 1
+        weight: 1
+      - path: Armature/Armature 1/root_ground
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left/leg_foot_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right/leg_foot_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail/tail_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left/arm_paw_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right/arm_paw_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left/ear_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right/ear_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left/head_eyeball_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right/head_eyeball_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left/head_eyelid_lower_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right/head_eyelid_lower_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left/head_eyelid_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right/head_eyelid_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left/head_lip_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right/head_lip_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose/head_nose_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2/tongue_2_end
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: BearEye
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|idle
+      takeName: Armature|idle
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature 1
+        weight: 1
+      - path: Armature/Armature 1/root_ground
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left/leg_foot_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right/leg_foot_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail/tail_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left/arm_paw_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right/arm_paw_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left/ear_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right/ear_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left/head_eyeball_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right/head_eyeball_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left/head_eyelid_lower_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right/head_eyelid_lower_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left/head_eyelid_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right/head_eyelid_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left/head_lip_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right/head_lip_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose/head_nose_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2/tongue_2_end
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: BearEye
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|trash.001
+      takeName: Armature|trash.001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature 1
+        weight: 1
+      - path: Armature/Armature 1/root_ground
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left/leg_foot_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right/leg_foot_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail/tail_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left/arm_paw_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right/arm_paw_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left/ear_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right/ear_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left/head_eyeball_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right/head_eyeball_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left/head_eyelid_lower_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right/head_eyelid_lower_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left/head_eyelid_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right/head_eyelid_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left/head_lip_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right/head_lip_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose/head_nose_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2/tongue_2_end
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: BearEye
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|walk_backwards
+      takeName: Armature|walk_backwards
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature 1
+        weight: 1
+      - path: Armature/Armature 1/root_ground
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left/leg_foot_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right/leg_foot_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail/tail_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left/arm_paw_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right/arm_paw_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left/ear_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right/ear_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left/head_eyeball_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right/head_eyeball_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left/head_eyelid_lower_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right/head_eyelid_lower_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left/head_eyelid_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right/head_eyelid_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left/head_lip_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right/head_lip_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose/head_nose_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2/tongue_2_end
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: BearEye
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|walk_left
+      takeName: Armature|walk_left
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature 1
+        weight: 1
+      - path: Armature/Armature 1/root_ground
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left/leg_foot_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right/leg_foot_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail/tail_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left/arm_paw_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right/arm_paw_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left/ear_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right/ear_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left/head_eyeball_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right/head_eyeball_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left/head_eyelid_lower_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right/head_eyelid_lower_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left/head_eyelid_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right/head_eyelid_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left/head_lip_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right/head_lip_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose/head_nose_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2/tongue_2_end
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: BearEye
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|walk_right
+      takeName: Armature|walk_right
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature 1
+        weight: 1
+      - path: Armature/Armature 1/root_ground
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left/leg_foot_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right/leg_foot_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail/tail_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left/arm_paw_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right/arm_paw_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left/ear_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right/ear_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left/head_eyeball_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right/head_eyeball_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left/head_eyelid_lower_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right/head_eyelid_lower_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left/head_eyelid_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right/head_eyelid_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left/head_lip_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right/head_lip_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose/head_nose_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2/tongue_2_end
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: BearEye
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|trash
+      takeName: Armature|trash
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature 1
+        weight: 1
+      - path: Armature/Armature 1/root_ground
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left/leg_foot_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right/leg_foot_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail/tail_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left/arm_paw_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right/arm_paw_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left/ear_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right/ear_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left/head_eyeball_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right/head_eyeball_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left/head_eyelid_lower_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right/head_eyelid_lower_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left/head_eyelid_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right/head_eyelid_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left/head_lip_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right/head_lip_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose/head_nose_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2/tongue_2_end
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: BearEye
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|walk_straight
+      takeName: Armature|walk_straight
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature 1
+        weight: 1
+      - path: Armature/Armature 1/root_ground
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_left/leg_knee_left/leg_ankle_left/leg_foot_claws_left/leg_foot_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/leg_thigh_right/leg_knee_right/leg_ankle_right/leg_foot_claws_right/leg_foot_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/pelvis/tail/tail_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_left/arm_shoulder_2_left/arm_elbow_left/arm_wrist_left/arm_paw_claws_left/arm_paw_claws_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/arm_shoulder_1_right/arm_shoulder_2_right/arm_elbow_right/arm_wrist_right/arm_paw_claws_right/arm_paw_claws_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_left/ear_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/ear_right/ear_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_left/head_eyeball_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyeball_right/head_eyeball_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_left/head_eyelid_lower_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_lower_right/head_eyelid_lower_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_left/head_eyelid_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_eyelid_upper_right/head_eyelid_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_left/head_lip_upper_left_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_lip_upper_right/head_lip_upper_right_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/head_nose/head_nose_end
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2
+        weight: 1
+      - path: Armature/Armature 1/root_ground/root_hips/spine_lower/spine_upper/neck/head/jaw/tongue_1/tongue_2/tongue_2_end
+        weight: 1
+      - path: Bear
+        weight: 1
+      - path: BearEye
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

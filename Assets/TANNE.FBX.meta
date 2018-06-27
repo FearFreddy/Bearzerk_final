@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: d82cdc9b0d0de1b49bc87cc5329107df
+timeCreated: 1490712310
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AM117_09_00
+    100002: AM117_09_00_MeshPart0
+    100004: AM117_09_00_MeshPart1
+    100006: AM117_09_00_MeshPart2
+    100008: AM117_09_00_MeshPart3
+    100010: AM117_09_00_MeshPart4
+    100012: AM117_09_02
+    100014: AM117_09_03
+    100016: AM117_09_04
+    100018: AM117_09_05
+    100020: AM117_09_05_MeshPart0
+    100022: AM117_09_05_MeshPart1
+    100024: AM117_09_05_MeshPart2
+    100026: AM117_09_06
+    100028: //RootNode
+    100030: AM117_09_05_MeshPart3
+    400000: AM117_09_00
+    400002: AM117_09_00_MeshPart0
+    400004: AM117_09_00_MeshPart1
+    400006: AM117_09_00_MeshPart2
+    400008: AM117_09_00_MeshPart3
+    400010: AM117_09_00_MeshPart4
+    400012: AM117_09_02
+    400014: AM117_09_03
+    400016: AM117_09_04
+    400018: AM117_09_05
+    400020: AM117_09_05_MeshPart0
+    400022: AM117_09_05_MeshPart1
+    400024: AM117_09_05_MeshPart2
+    400026: AM117_09_06
+    400028: //RootNode
+    400030: AM117_09_05_MeshPart3
+    2300000: AM117_09_00_MeshPart0
+    2300002: AM117_09_00_MeshPart1
+    2300004: AM117_09_00_MeshPart2
+    2300006: AM117_09_00_MeshPart3
+    2300008: AM117_09_00_MeshPart4
+    2300010: AM117_09_02
+    2300012: AM117_09_03
+    2300014: AM117_09_04
+    2300016: AM117_09_05_MeshPart0
+    2300018: AM117_09_05_MeshPart1
+    2300020: AM117_09_05_MeshPart2
+    2300022: AM117_09_06
+    2300024: AM117_09_05_MeshPart3
+    3300000: AM117_09_00_MeshPart0
+    3300002: AM117_09_00_MeshPart1
+    3300004: AM117_09_00_MeshPart2
+    3300006: AM117_09_00_MeshPart3
+    3300008: AM117_09_00_MeshPart4
+    3300010: AM117_09_02
+    3300012: AM117_09_03
+    3300014: AM117_09_04
+    3300016: AM117_09_05_MeshPart0
+    3300018: AM117_09_05_MeshPart1
+    3300020: AM117_09_05_MeshPart2
+    3300022: AM117_09_06
+    3300024: AM117_09_05_MeshPart3
+    4300000: AM117_09_02
+    4300002: AM117_09_03
+    4300004: AM117_09_04
+    4300006: AM117_09_05_MeshPart0
+    4300008: AM117_09_05_MeshPart1
+    4300010: AM117_09_05_MeshPart2
+    4300012: AM117_09_00_MeshPart0
+    4300014: AM117_09_00_MeshPart1
+    4300016: AM117_09_00_MeshPart2
+    4300018: AM117_09_00_MeshPart3
+    4300020: AM117_09_00_MeshPart4
+    4300022: AM117_09_06
+    4300024: AM117_09_05_MeshPart3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

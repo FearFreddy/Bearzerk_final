@@ -1,0 +1,20 @@
+	private float oldRotX;
+	private bool firstTouch = false;
+
+	private void OnCollisionExit(Collision other) 
+	{
+		firstTouch = false;
+	}
+
+	private void OnCollisionStay(Collision other) 
+	{
+		if (other.contacts [0].point.y > transform.position.y + 2) {
+
+			if (firstTouch) {
+				oldRotX = transform.rotation.eulerAngles.x;
+			}
+
+			Vector3 oldRot = transform.rotation.eulerAngles;
+			transform.rotation = Quaternion.Euler (oldRotX, oldRot.y, 0);
+		}
+	}
